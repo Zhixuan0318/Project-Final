@@ -1,0 +1,110 @@
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+
+/* Navigation Bar */
+
+nav{
+  background-color:  #7579e7;
+}
+
+.navbar-brand{
+  font-size: 30px;
+  padding: 20px 20px 20px 10px;
+}
+
+.nav-item {
+  padding: 0 18px;
+  font-size: 20px;
+}
+
+/* Top */
+
+.top{
+  background-color: #7579e7;
+  padding-bottom: 50px;
+
+}
+
+.name{
+  font-size: 80px;
+  color: white;
+  font-weight: bold;
+  padding: 180px  30px 20px 90px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+.bio{
+  font-size: 30px;
+  color: white;
+  padding: 0  30px 50px 100px;
+}
+
+.landing{
+  padding-top: 70px;
+}
+
+/* About Me*/
+
+.about{
+
+  text-align: center;
+  padding-bottom: 150px;
+  font-family: 'Montserrat', sans-serif;
+
+
+}
+.man{
+  width: 180px;
+  border-radius: 100px;
+  margin-top: 130px;
+  border: solid black 3px;
+}
+
+.description{
+  color:black;
+  font-size: 20px;
+  margin: 0 5px 80px 5px;
+}
+
+.hello{
+  font-size: 30px;
+  color: black;
+  margin: 30px;
+}
+
+
+/* Skills */
+
+.box{
+  text-align: center;
+  padding: 70px 0 50px 0;
+  color: white;
+}
+
+.skills{
+    background-color: #7579e7;
+    padding: 100px 0;
+}
+
+i:hover{
+  color: #b9fffc;
+}
+
+i{
+  padding: 10px;
+}
+
+/* Achievements */
+
+.achievements{
+  margin: 9% 5%;
+}
+
+
+/* Contact */
+.contact{
+  text-align: center;
+  background-color: #7579e7;
+}
